@@ -1,0 +1,10 @@
+{
+  "simulation": "videogamedb.scriptFundamentals.videGameDbScript",
+  "simulationId": "videgamedbscript-20231205143559517",
+  "start": 1701786960889,
+  "description": "Test",
+  "scenarios": ["Game DB Apis"],
+  "assertions": [
+
+  ]
+}
